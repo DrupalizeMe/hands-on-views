@@ -1734,16 +1734,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "9.0.13",
+            "version": "9.0.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "2fec59df7b5ec87b325968a47948f9adf64e939d"
+                "reference": "acabb06da050aac3f91212ef3588e182876ba346"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/2fec59df7b5ec87b325968a47948f9adf64e939d",
-                "reference": "2fec59df7b5ec87b325968a47948f9adf64e939d",
+                "url": "https://api.github.com/repos/drupal/core/zipball/acabb06da050aac3f91212ef3588e182876ba346",
+                "reference": "acabb06da050aac3f91212ef3588e182876ba346",
                 "shasum": ""
             },
             "require": {
@@ -1974,7 +1974,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
-            "time": "2021-05-05T12:01:05+00:00"
+            "time": "2021-05-25T09:18:12+00:00"
         },
         {
             "name": "drupal/core-composer-scaffold",
@@ -2025,16 +2025,16 @@
         },
         {
             "name": "drupal/core-recommended",
-            "version": "9.0.13",
+            "version": "9.0.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-recommended.git",
-                "reference": "22d03ad4e34bfa76439273e7d477c3004eab7e29"
+                "reference": "4752854d4ba0c6a693f7e0dcdc72f328848bd58c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/22d03ad4e34bfa76439273e7d477c3004eab7e29",
-                "reference": "22d03ad4e34bfa76439273e7d477c3004eab7e29",
+                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/4752854d4ba0c6a693f7e0dcdc72f328848bd58c",
+                "reference": "4752854d4ba0c6a693f7e0dcdc72f328848bd58c",
                 "shasum": ""
             },
             "require": {
@@ -2043,7 +2043,7 @@
                 "doctrine/annotations": "1.10.3",
                 "doctrine/lexer": "1.2.1",
                 "doctrine/reflection": "1.2.1",
-                "drupal/core": "9.0.13",
+                "drupal/core": "9.0.14",
                 "egulias/email-validator": "2.1.17",
                 "guzzlehttp/guzzle": "6.5.4",
                 "guzzlehttp/promises": "v1.3.1",
@@ -2104,7 +2104,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Locked core dependencies; require this project INSTEAD OF drupal/core.",
-            "time": "2021-05-05T12:01:05+00:00"
+            "time": "2021-05-25T09:18:12+00:00"
         },
         {
             "name": "drupal/upgrade_status",
