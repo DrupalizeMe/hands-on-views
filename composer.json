@@ -20,7 +20,7 @@
         "composer/installers": "^1.7",
         "cweagans/composer-patches": "^1.6.5",
         "drupal/console": "^1.0.2",
-        "drupal/core-composer-scaffold": "~9.1.7@dev",
+        "drupal/core-composer-scaffold": "~9.2.1@dev",
         "drupal/core-recommended": "~9.0.0@dev",
         "drupal/upgrade_status": "^2.0",
         "drush/drush": "^9.7.1 | ^10.0.0",

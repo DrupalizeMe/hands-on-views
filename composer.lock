@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4a0afc2f99dedebe40e513aa68f2446d",
+    "content-hash": "ff294441563691ea5622acee634dcd27",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -1978,7 +1978,7 @@
         },
         {
             "name": "drupal/core-composer-scaffold",
-            "version": "9.1.8",
+            "version": "9.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-composer-scaffold.git",
@@ -10163,7 +10163,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "drupal/core-composer-scaffold": 20,
+        "drupal/core-recommended": 20,
         "drupal/core-dev": 20
     },
     "prefer-stable": true,
