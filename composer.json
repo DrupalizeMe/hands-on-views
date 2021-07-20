@@ -22,7 +22,7 @@
         "drupal/console": "^1.0.2",
         "drupal/core-composer-scaffold": "~9.1.7@dev",
         "drupal/core-recommended": "~9.0.0@dev",
-        "drupal/upgrade_status": "^2.0",
+        "drupal/upgrade_status": "^3.8",
         "drush/drush": "^9.7.1 | ^10.0.0",
         "vlucas/phpdotenv": "^5.0",
         "webflo/drupal-finder": "^1.0.0",
